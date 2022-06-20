@@ -20,5 +20,5 @@ sensitivity
 ggplot2
 
 Trouble shooting:
-1. Packages not found even after installing them: Check which version of R is set to use in KNIME. Using an local computer version is more suitable as packages are installed there by default. To change R version go to File>Preferences>KNIME>R> Path to R Home.
+1. Packages not found even after installing them: Check which version of R is set to use in KNIME. Using a local computer version is more suitable as packages are installed there by default. To change R version go to File>Preferences>KNIME>R> Path to R Home.
 2. 
