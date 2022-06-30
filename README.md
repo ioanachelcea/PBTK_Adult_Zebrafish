@@ -1,5 +1,8 @@
 # PBTK_Adult_Zebrafish
 PBTK model for bisphenols in adult zebrafish. Code written by Ioana Chelcea, adapted from Grech et al. 2019
+Publication:Title: "Physiologically Based Toxicokinetic Modelling of Bisphenols in Zebrafish (Danio rerio) Accounting for Variation in Metabolic Rates, Brain Distribution and Liver Accumulation"
+Author(s): Chelcea, Ioana; Örn, Stefan; Hamers, Timo; Koekkoek, Jacco ; Legradi, Jessica; Vogs, Carolina; Andersson, Patrik
+Reference if used and/or modified
 
 Repository contains 2 files for running the model. IMPORTANT: Place both files in the same folder and set the local KNIME directory to that folder. All packages required for running need to be installed
 Files for model running:
